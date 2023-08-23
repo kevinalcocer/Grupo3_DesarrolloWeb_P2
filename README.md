@@ -7,7 +7,7 @@ Buen día, nuestro grupo está conformado por:
 - Adrian Chin
 - Gabriela Guevara.
 
-Nuestro aplicativo web es diseñado para la Panadería "Dulce Pan"
+Nuestro aplicativo web es diseñado sobre un Banco de Artículos.
 
 ¡Saludos!
 
